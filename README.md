@@ -1,8 +1,12 @@
 # mvp-gestao
 Repositório para o MVP da Sprint 4, Gestão Ágil de Projetos e Produtos. PUC Rio, especialização em Engenharia de Software 2024.
 
-## Links
+## Informações
 > Link do MIRO: https://miro.com/app/board/uXjVLAW1fj0=/?share_link_id=647317054936
+>
+> Backlog do Produto e da Sprint 1: arquivo backlog-ajudamais.pdf
+>
+> Wireframes: pasta /wireframe-ajudamais
 > 
 > Link do video: https://youtu.be/MgI155vdUE0
 
